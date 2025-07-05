@@ -1,0 +1,61 @@
+# Amna Shah – Front-End Developer Portfolio
+
+A fully responsive personal portfolio website built using **HTML5, CSS3, and JavaScript**. This site showcases my front-end development skills, experience, projects, and contact information.
+
+### 🔗 Live Demo
+[https://yourusername.github.io/amna-portfolio/](https://yourusername.github.io/amna-portfolio/) *(Replace with your actual GitHub Pages link)*
+
+---
+
+## 📌 Features
+- Mobile-friendly responsive layout
+- Modern and clean design
+- Section fade-in animations with JavaScript
+- Organized project cards with descriptions
+- Skills grid, contact details, and education section
+
+---
+
+## 🛠️ Built With
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Google Fonts (Inter)
+- Visual Studio Code
+
+---
+
+## 📁 Folder Structure
+```
+amna-portfolio/
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+    └── img/
+        └── profile.png
+```
+
+---
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+1. Clone the repository:
+```bash
+git clone https://github.com/amna-shah/amna-portfolio.git
+```
+2. Open the folder in VS Code
+3. Right-click `index.html` → **Open with Live Server** *(or just open in browser)*
+
+---
+
+## 📬 Contact
+- **Email:** amna46532@gmail.com
+- **GitHub:** [github.com/amna-shah](https://github.com/amna-shah)
+- **LinkedIn:** [linkedin.com/in/amna-shah](https://linkedin.com/in/amna-shah)
+
+---
+
+> © 2025 Amna Shah – All rights reserved.
