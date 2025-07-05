@@ -1,0 +1,53 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background: #f3f4f6;
+    color: #333;
+}
+
+header {
+    background: linear-gradient(135deg, #010715, #020b1f);
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+    position: relative;
+}
+
+.profile-img {
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid white;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 36px;
+    margin-top: 10px;
+}
+
+h2 {
+    font-size: 28px;
+    color: #0c1830;
+    margin-bottom: 16px;
+    border-bottom: 2px solid #e5e7eb;
+    display: inline-block;
+    padding-bottom: 4px;
+}
+
+.skills-grid span:hover,
+.project-card:hover,
+.exp-box:hover {
+    background: #e0f2fe;
+    transition: 0.3s ease-in-out;
+}
+
+a {
+    color: #050f26;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
